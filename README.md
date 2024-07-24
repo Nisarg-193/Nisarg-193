@@ -8,7 +8,7 @@
 
 # Hi there 👋, Nisarg Boragavankar
 #### Full Stack Java Developer
-![Full Stack Java Developer]("C:\Users\nisar\Downloads\Black And Grey Professional Technology LinkedIn Banner.png")
+![Full Stack Java Developer](https://media.licdn.com/dms/image/D5616AQHaynKJI0oY7Q/profile-displaybackgroundimage-shrink_350_1400/0/1721850176534?e=1727308800&v=beta&t=ukCoJfdOFJlOvsJwAa-t1W_Gf1egdz4GPXY3KECpu4o)
 
 I'am Nisarg from India, and I'am a Full stack java developer. I really enjoy learning languages and frameworks like java, javaScript, Spring Boot, Reactjs.
 
